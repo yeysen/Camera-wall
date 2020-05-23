@@ -1,0 +1,1 @@
+mspaint /pt C:\Users\yeysen\Documents\clubCode\camerasWall\hot\pic.png
